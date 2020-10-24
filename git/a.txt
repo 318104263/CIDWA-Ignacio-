@@ -1,3 +1,7 @@
 git status
 git add
 git commiit -m " "
+git log
+git push origin main
+git chekout 
+
